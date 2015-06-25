@@ -1,0 +1,10 @@
+c:\users\andy\documents\visual studio 2013\Projects\Homework 01\Homework 01\bin\Debug\Homework 01.exe.config
+C:\Users\andy\Documents\Visual Studio 2013\Projects\Homework 01\Homework 01\bin\Debug\Homework 01.exe
+C:\Users\andy\Documents\Visual Studio 2013\Projects\Homework 01\Homework 01\bin\Debug\Homework 01.pdb
+C:\Users\andy\Documents\Visual Studio 2013\Projects\Homework 01\Homework 01\obj\Debug\Homework 01.exe
+C:\Users\andy\Documents\Visual Studio 2013\Projects\Homework 01\Homework 01\obj\Debug\Homework 01.pdb
+C:\Users\andy\Desktop\Homework 01\Homework 01\bin\Debug\Homework 01.exe.config
+C:\Users\andy\Desktop\Homework 01\Homework 01\obj\Debug\Homework 01.exe
+C:\Users\andy\Desktop\Homework 01\Homework 01\obj\Debug\Homework 01.pdb
+C:\Users\andy\Desktop\Homework 01\Homework 01\bin\Debug\Homework 01.exe
+C:\Users\andy\Desktop\Homework 01\Homework 01\bin\Debug\Homework 01.pdb
